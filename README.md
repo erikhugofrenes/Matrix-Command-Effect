@@ -11,7 +11,7 @@ cd
 
 To run the program, use the following command:
 
-java -jar MatrixCommandEffect.jar <prefix> <command> [<args>...]
+java -jar MatrixCommandEffect.jar prefix command args...
 
 ### Limitations
 - only supported prefix "infinite"
