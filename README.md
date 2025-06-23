@@ -1,6 +1,9 @@
 # Matrix Command Effect
 Reimagines the Matrix Command Line Effect in CMD
 
+[![Watch the video](https://img.youtube.com/vi/yhf1i6HHOAg/0.jpg)](https://www.youtube.com/watch?v=yhf1i6HHOAg)
+* (https://www.youtube.com/watch?v=yhf1i6HHOAg)
+
 ## Setup Instructions
 
 Navigate to the folder holding the program:
